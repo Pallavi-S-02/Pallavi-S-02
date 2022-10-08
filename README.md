@@ -1,6 +1,6 @@
 Hey there , I am Pallavi !
 
-• 🎓 I'm currently pursuing B.Tech in Computer Science (Pre-Final Year) from SRM University, Chennai 
+• 🎓 I'm currently pursuing B.Tech in Computer Science (Final Year) from SRM University, Chennai 
 
 • ✨ I'm interested in Machine Learning, Data Science and Artificial Intelligence 
 
